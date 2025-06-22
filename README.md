@@ -1,5 +1,3 @@
----
-
 ##  Project Overview & Approach
 
 This assignment demonstrates how to interact with the GitHub REST API using two tools: **Postman** and **Google Colab**. Each part of the test focuses on a core skill required for a data source analyst working with APIs.
